@@ -23,7 +23,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Static and Instance Methods
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String Reverse", "Section 2 - C# Knowledge\String Reverse\String Reverse.csproj", "{21F5D4A3-2B8F-4C60-AF32-0853AAA8A114}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RESTful API", "Section 3 - Software Development and Testing with C#\RESTful API\RESTful API.csproj", "{04F1BFAC-E4EE-4F88-B521-653ED24C45D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTful API", "Section 3 - Software Development and Testing with C#\RESTful API\RESTful API.csproj", "{54801EE8-26EE-4A20-8DBA-2C0A00BD53BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -71,10 +71,10 @@ Global
 		{21F5D4A3-2B8F-4C60-AF32-0853AAA8A114}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21F5D4A3-2B8F-4C60-AF32-0853AAA8A114}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21F5D4A3-2B8F-4C60-AF32-0853AAA8A114}.Release|Any CPU.Build.0 = Release|Any CPU
-		{04F1BFAC-E4EE-4F88-B521-653ED24C45D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{04F1BFAC-E4EE-4F88-B521-653ED24C45D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{04F1BFAC-E4EE-4F88-B521-653ED24C45D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{04F1BFAC-E4EE-4F88-B521-653ED24C45D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54801EE8-26EE-4A20-8DBA-2C0A00BD53BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54801EE8-26EE-4A20-8DBA-2C0A00BD53BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54801EE8-26EE-4A20-8DBA-2C0A00BD53BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54801EE8-26EE-4A20-8DBA-2C0A00BD53BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
